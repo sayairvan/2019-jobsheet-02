@@ -1,0 +1,16 @@
+# Jobsheet 02 
+
+## Perbedaan
+wrap_content : menyesuaikan lebar dan tinggi tampilan berdasarkan konten.
+match_parent : menyesuaikan lebar dan tinggi tampilan berdasarkan lebar dan tinggi dari hp.
+
+## Linear Layout
+Kesimpulan :
+ketika orientasi diubah menjadi horizontal maka urutan tampilanya akan berjejer mendatar. weight_sum nya berfungsi mendefinisikan total weight yang nantinya bisa digunkan oleh childnya. layout weight digunakan untuk mengatur besar view sesuai dengan angka integer yang diinputkan.
+
+## Constraint layout
+Kesimpulan : 
+membuat tampilan seperti pada contoh linear layout ternyata juga bisa dilakukan dengan cara constraint layout dengan bantuan guidelines. dan begitu juga dengan membuat tampilan seperti pada layout relative juga bisa dilakukan pada constraint layout dengan design mode.
+
+## Kesimpulan
+pada suatu activity ini terdapat tahapan yang dilewati seperti onCreate, onStart, onPause, onStop, onResume, onRestrart, dan onDestroy. Dalam pembuatan tampilan android juga bisa dilakukan dengan cara linear layout mudah dengan mode text, relative layout mudah dengan mode text dan desain, dan constraint layout mudah dengan mode desain
